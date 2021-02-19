@@ -1,6 +1,11 @@
 # R2S with USB Wifi drivers
 
-List of integrated apps:
+Complied based on Lean openwrt source code:
+https://github.com/coolsnowwolf/lede/
+
+With most USB WiFi drivers included.
+
+## List of integrated apps:
 * TTYD terminal
 * LED config
 * Passwall
@@ -14,7 +19,10 @@ List of integrated apps:
 * nlbw
 
 Other apps complied as ipk package.
+
+## How to use
 Set your own OPKG source refer to below link:
 
-Special thanks to:
-Lean openwrt
+
+## Special thanks:
+[Lean openwrt](https://github.com/coolsnowwolf/lede/)
