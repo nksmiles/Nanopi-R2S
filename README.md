@@ -3,7 +3,11 @@
 Complied based on Lean openwrt source code:
 https://github.com/coolsnowwolf/lede/
 
+## USB WiFi drivers
 With most USB WiFi drivers included.
+
+TL-WN722N (Atheros AR9271) works on my R2S. Others not tested.
+
 
 ## Luci apps:
 
