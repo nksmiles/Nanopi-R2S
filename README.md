@@ -5,23 +5,18 @@ https://github.com/coolsnowwolf/lede/
 
 With most USB WiFi drivers included.
 
-## List of integrated apps:
-* TTYD terminal
-* LED config
-* Passwall
-* adbyby plus
-* jd-dailybonus
-* mia- net access time control
-* UnblockNeteaseMusic 
-* vlmcsd
-* Upnp
-* flowoffload
-* nlbw
+## Luci apps:
+
+Default apps by Lean's openwrt for Nanopi-R2s + [passwall](https://github.com/xiaorouji/openwrt-passwall) 
 
 Other apps complied as ipk package.
 It's recommanded to set your own OPKG source to install.
 
 ## How to use
+
+It's supposed that you already know how to flash your system image to TF card.
+Or use openwrt system upgrade.
+
 Set your own OPKG source refer to below link:
 
 [如何搭建自己的私人插件库](https://www.youtube.com/watch?v=BSsBTSQfEQE&list=PLTI5d7Gwez7ri29l5OOOxoWbxooGqXzMR&index=4)
