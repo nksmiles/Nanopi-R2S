@@ -1,4 +1,4 @@
-# R2S with USB Wifi drivers
+# OpenWrt for R2S with USB Wifi drivers
 
 Complied based on Lean openwrt source code:
 https://github.com/coolsnowwolf/lede/
@@ -19,7 +19,7 @@ Or use openwrt system upgrade.
 
 Set your own OPKG source refer to below link:
 
-[如何搭建自己的私人插件库](https://www.youtube.com/watch?v=BSsBTSQfEQE&list=PLTI5d7Gwez7ri29l5OOOxoWbxooGqXzMR&index=4)
+[How to setup your personal OPKG source](https://www.youtube.com/watch?v=BSsBTSQfEQE&list=PLTI5d7Gwez7ri29l5OOOxoWbxooGqXzMR&index=4)
 
 ## No gurantee, no support
 No gurantee, no support, use at your own risk.
