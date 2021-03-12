@@ -31,6 +31,4 @@ No gurantee, no support, use at your own risk.
 ## Special thanks:
 [Lean's openwrt](https://github.com/coolsnowwolf/lede/)
 
-[openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall)
-
 [xray](https://github.com/XTLS/Xray-core)
