@@ -8,6 +8,7 @@ With most USB WiFi drivers included.
 
 TL-WN722N (Atheros AR9271) works on my R2S. Others not tested.
 
+WPA3 enabled by wpad-openssl.
 
 ## Luci apps:
 
