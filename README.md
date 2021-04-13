@@ -1,4 +1,4 @@
-# OpenWrt for R2S with USB Wifi drivers
+# OpenWrt for rockchip with USB Wifi drivers
 
 Complied based on Lean openwrt source code:
 https://github.com/coolsnowwolf/lede/
